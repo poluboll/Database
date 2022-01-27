@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_autor">Имя писателя</string>
+    <string name="name_book">Название книги</string>
+    <string name="cost">Цена</string>
+    <string name="num_page">Количество страниц</string>
+</resources>
